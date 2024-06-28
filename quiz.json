@@ -1,0 +1,80 @@
+{
+  "shortDescription": "Test your knowledge about Ethereum",
+  "questions": [
+    {
+      "question": "Who created Ethereum?",
+      "answers": ["Buterin", "Nakamoto", "Wood"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was Ethereum launched?",
+      "answers": ["2015", "2013", "2017"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum's token?",
+      "answers": ["ETH", "BTC", "LTC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum's symbol?",
+      "answers": ["ETH", "ETC", "ETH2"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What consensus does Ethereum use?",
+      "answers": ["PoW", "PoS", "DPoS"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Ethereum's smallest unit?",
+      "answers": ["Wei", "Gwei", "Ether"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum's network upgrade?",
+      "answers": ["Fork", "Merge", "Split"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Ethereum's blockchain?",
+      "answers": ["ETH", "BSC", "SOL"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum's supply limit?",
+      "answers": ["None", "21M", "50M"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What language is used for smart contracts?",
+      "answers": ["Rust", "Vyper", "Solidity"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What are Ethereum's decentralized apps called?",
+      "answers": ["dApps", "CEX", "DEX"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum 2.0?",
+      "answers": ["Upgrade", "Token", "Network"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum's ICO year?",
+      "answers": ["2014", "2016", "2018"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum's block time?",
+      "answers": ["15s", "10m", "1h"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who co-founded Ethereum?",
+      "answers": ["Hoskin", "Larsen", "Ellis"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
